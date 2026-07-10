@@ -1,7 +1,9 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Somnath Jamadar — MERN-STACK DEVELOPER | AIML |👨‍💻
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/somnath-jamadar)
+<a href="https://www.linkedin.com/in/somnath-jamadar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Somnath%20Jamadar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <img src="https://raw.githubusercontent.com/somnath-jamadar09/somnath-jamadar09/master/assets/github-snake-dark.svg" />
 
 ## Glad to see you here!
