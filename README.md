@@ -1,4 +1,4 @@
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Somnath Jamadar — MERN-STACK DEVELOPER | AIML |👨‍💻
+## Hey<img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />I'm Somnath Jamadar — MERN-STACK DEVELOPER | AIML |👨‍💻
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnath-jamadar/)
